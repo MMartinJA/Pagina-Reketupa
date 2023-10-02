@@ -112,7 +112,7 @@ h3{
 .air p{
     display: inline-block;
     position: relative;
-    bottom: 30px;
+    bottom: 25px;
     margin-left: 5px;
 }
 
@@ -123,7 +123,7 @@ h3{
 .sambeat p{
     display: inline-block;
     position: relative;
-    bottom: 30px;
+    bottom: 25px;
     margin-left: 5px;
 }
 
@@ -138,3 +138,6 @@ h3{
     font-size: 150%;
     font-style: italic;
 }
+
+/*Fin del Home*/
+/*Inicio de Nosotros*/
