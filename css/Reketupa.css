@@ -141,3 +141,38 @@ h3{
 
 /*Fin del Home*/
 /*Inicio de Nosotros*/
+
+/*
+.personas{
+    flex-wrap: wrap;
+    } (desbordamiento)
+*/
+
+.persona{
+    border: 1px solid #807b7b;
+    border-radius: 5px;
+    width: 18%;
+    text-align: center;
+    padding: 10px 12px;
+}
+
+.personas{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.persona img{
+    border-radius: 10%;
+    width: 40%;
+}
+
+.persona h5,
+.persona h6{
+    margin: 0;
+}
+
+/*Fin de nosotros*/
+
+/*inicio de contacto*/
+
